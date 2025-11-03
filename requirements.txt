@@ -1,0 +1,6 @@
+google-cloud-aiplatform~=1.124.0
+protobuf~=6.33.0
+pandas~=2.3.3
+pyarrow~=22.0.0
+kfp~=2.14.6
+scikit-learn~=1.7.2
