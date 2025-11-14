@@ -4,3 +4,23 @@ pandas~=2.3.3
 pyarrow~=22.0.0
 kfp~=2.14.6
 scikit-learn~=1.7.2
+tensorflow~=2.20.0
+keras~=3.12.0
+torch~=2.8.0
+datasets~=2.17.0
+transformers~=4.38.2
+accelerate~=0.28.0
+evaluate~=0.4.0
+rouge_score~=0.1.2
+peft~=0.3.0
+
+transformers==4.46.2
+datasets==3.0.1
+evaluate==0.4.3
+
+# Data handling & utilities
+numpy==1.26.4
+
+# Optional: progress bars, experiment tracking, etc.
+tqdm==4.66.5
+accelerate==1.0.1  # Helps with multi-GPU and performance optimization
