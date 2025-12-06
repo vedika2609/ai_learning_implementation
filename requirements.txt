@@ -24,3 +24,5 @@ numpy==1.26.4
 # Optional: progress bars, experiment tracking, etc.
 tqdm==4.66.5
 accelerate==1.0.1  # Helps with multi-GPU and performance optimization
+
+langgraph
