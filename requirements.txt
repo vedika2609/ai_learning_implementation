@@ -13,6 +13,7 @@ accelerate~=0.28.0
 evaluate~=0.4.0
 rouge_score~=0.1.2
 peft~=0.3.0
+dotenv
 
 transformers==4.46.2
 datasets==3.0.1
@@ -26,3 +27,5 @@ tqdm==4.66.5
 accelerate==1.0.1  # Helps with multi-GPU and performance optimization
 
 langgraph
+langchain_openai
+langchain_ibm

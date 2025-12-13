@@ -5,3 +5,4 @@ secrets
 *.iml
 .idea
 .DS_Store
+.env
