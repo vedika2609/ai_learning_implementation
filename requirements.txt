@@ -24,3 +24,5 @@ langchain~=1.2.10
 langchain-core~=1.2.11
 openai~=2.9.0
 python-dotenv~=1.2.1
+panel~=1.8.10
+ipython~=9.7.0
